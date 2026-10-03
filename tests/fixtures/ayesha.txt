@@ -1,0 +1,14 @@
+Ayesha — Synthetic demo candidate
+Final-year Computer Science student seeking junior Python backend roles.
+Skills
+Python, Flask, SQL, HTML, CSS, JavaScript, Git
+Education
+BS Computer Science, Demo University, 2023–2027 (in progress)
+Experience
+Software Developer Intern, Demo Studio, June 2025–September 2025
+Built Flask endpoints and SQL queries for an internal inventory tool.
+Projects
+Campus Library: built a Flask and SQL application with HTML and CSS pages.
+Study Planner: developed a JavaScript interface for organizing assignments.
+Achievements
+Presented Campus Library at a university project showcase.

@@ -1,0 +1,3 @@
+# Optional. Core application does not require a model download.
+-r requirements.txt
+sentence-transformers>=3,<6

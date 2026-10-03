@@ -1,0 +1,11 @@
+Bilal — Synthetic frontend candidate
+Junior frontend developer interested in accessible web applications.
+Skills
+JavaScript, React, HTML, CSS, Git, Accessibility, TypeScript
+Education
+BS Software Engineering, Example University, 2021–2025
+Experience
+Frontend Intern, Example Design, January 2025–July 2025
+Built React components and responsive HTML and CSS pages.
+Projects
+Created an accessible reading-list interface with TypeScript.

@@ -1,0 +1,10 @@
+{
+  "fresh_pdf_to_analysis_seconds": 1.721,
+  "cached_analysis_seconds": 0.073,
+  "browser_errors": [],
+  "external_requests": [],
+  "expected_validation_errors": 1,
+  "desktop": "1440x1000",
+  "mobile": "390x844",
+  "status": "passed"
+}

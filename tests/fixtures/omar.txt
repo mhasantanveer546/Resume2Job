@@ -1,0 +1,12 @@
+Omar — Synthetic demo candidate
+Backend developer seeking Python engineering roles.
+Skills
+Python, FastAPI, REST APIs, SQL, PostgreSQL, Git, Docker, CI/CD, Unit Testing, Pytest, AWS
+Education
+BS Computer Science, Demo Institute, 2019–2023
+Experience
+Backend Developer, Example Systems, January 2023–January 2026
+Built FastAPI REST APIs backed by PostgreSQL. Wrote Unit Testing with Pytest.
+Used Docker for local packaging and CI/CD for automated tests.
+Projects
+Created a Python task queue prototype and documented its REST APIs.

@@ -1,0 +1,12 @@
+Sara — Synthetic career switcher
+Customer-service professional moving into data analysis.
+Skills
+Excel, Communication, Customer Service, SQL, Pandas, Python
+Education
+Bachelor of Commerce, Demo College, 2017–2021
+Experience
+Customer Support Associate, Example Services, January 2022–January 2025
+Used Excel to summarize weekly customer enquiries.
+Projects
+Cleaned a synthetic sales dataset using Pandas and Python.
+Practiced SQL joins on a local database.
